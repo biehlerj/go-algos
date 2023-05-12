@@ -1,5 +1,7 @@
 # Linear Search
 
+[Linear search algorithm](https://en.wikipedia.org/wiki/Linear_search) in Go
+
 ## Performance
 
 Worst-case Performance: $O(n)$
