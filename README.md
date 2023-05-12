@@ -8,7 +8,7 @@ Repository for implementing common algorithms in Go
    1. [Bubble Sort](./bubble_sort/README.md)
    2. [Insertion Sort](./insertion_sort/README.md)
    3. [Selection Sort](./selection_sort/README.md)
-   4. Quick Sort
+   4. [Quick Sort](./quicksort/README.md)
 2. Searching Algorithms:
    1. [Linear Search](./linear_search/README.md)
    2. [Binary Search](./binary_search/README.md)
