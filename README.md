@@ -5,7 +5,7 @@ Repository for implementing common algorithms in Go
 ## Algorithms
 
 1. Sorting Algorithms:
-   1. Bubble Sort
+   1. [Bubble Sort](./bubble_sort/README.md)
    2. Insertion Sort
    3. Selection Sort
    4. Quick Sort
